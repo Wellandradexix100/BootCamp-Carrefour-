@@ -1,0 +1,30 @@
+body{
+	font-family: arial;
+	width: auto;
+	font-size: 20px;
+}
+
+footer{
+	text-align: center;
+	background-color: black;
+	color: blueviolet;
+}
+
+.navbar{
+	background-color: #00FFFF;
+}
+
+#quemsomos{
+	background-color: #F781F3;
+	text-align: center;
+}
+
+.margin{
+	padding-top: 50px;
+	margin-bottom: 50px;
+}
+
+#trabalhe-conosco{
+	background-color: blue;
+	text-align: center;
+}

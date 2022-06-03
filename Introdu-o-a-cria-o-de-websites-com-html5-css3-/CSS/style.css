@@ -1,0 +1,46 @@
+body{
+	background-color: #8080802b;
+	max-width: 900px;
+	margin: auto;
+}
+.header-img{
+	border-radius: 50%;
+}
+#title,.subtitle,.post_subtitle{
+	color: greenyellow;
+	text-align: center;
+	font-size: 30px;
+	font-family: verdana;
+}
+.post_subtitle{
+	margin: 0;
+	margin-bottom: 15px;
+	font-family: verdana, arial;
+}
+.post{
+	background-color: white;
+	padding: 15%;
+	border: 3px solid violet;
+	margin-bottom: 15px;
+}
+.post-img{
+	width: 100%;
+}
+.post_content{
+	margin: 0;
+	margin-bottom: 15px;
+}
+ul{
+	list-style-type: "\1F44D";
+	padding: 15px;
+}
+ul{
+	
+}
+#contato{
+	text-align: center;
+}
+ .contatos{
+ 	color: darkblue;
+ 	font-size: 20px;
+}
